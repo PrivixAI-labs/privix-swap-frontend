@@ -48,7 +48,7 @@
     "multihashes": "^3.0.1",
     "polished": "^3.3.2",
     "psc-sdk": "^1.0.5",
-    "psc-ui-kit": "^1.0.4",
+    "psc-ui-kit": "^1.0.5",
     "react": "^17.0.1",
     "react-device-detect": "^1.6.2",
     "react-dom": "^17.0.1",
